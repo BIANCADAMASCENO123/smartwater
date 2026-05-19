@@ -8,7 +8,7 @@ O **Smart Water** é um projeto IoT focado na gestão inteligente, medição de 
 * **Ferramenta de Administração:** DBeaver
 
 ## 🗄️ Estrutura do Banco de Dados
-O banco de dados foi modelado para suportar o controlo de utilizadores (moradores e síndicos), gestão de sensores instalados, armazenamento de leituras de consumo de água e disparos de notificações de alertas.
+O banco de dados foi modelado para suportar o controle de utilizadores (moradores e síndicos), gestão de sensores instalados, armazenamento de leituras de consumo de água e disparos de notificações de alertas.
 
 A estrutura está organizada na pasta `/banco de dados`:
 * `esquema.sql`: Contém a criação de todas as tabelas, restrições (constraints) e índices de performance.
@@ -20,4 +20,4 @@ A estrutura está organizada na pasta `/banco de dados`:
 * **Daniel Silva**
 * **Mariana Rodrigues**
 * **Jeferson Manoel**
-* 
+  
